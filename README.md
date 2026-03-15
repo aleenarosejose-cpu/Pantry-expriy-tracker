@@ -31,6 +31,6 @@ People often forget the expiry dates of products stored in their pantry. Without
 - Java
 - Java Swing (GUI)
 ## Application Interface
-![Pantry Tracker](screenshots/interface.png)
+![Pantry Tracker](Screenshot2026-03-15155056.png)
 ## Author
 Aleena Rose Jose
